@@ -1,0 +1,6 @@
+{
+    "quip_api_key": "get your own API token",
+    "default_load_file": "mpk_geospatial_data.geojson",
+    "default_load_choice": 2,
+    "thread_id": "Ask or look it up"
+}
