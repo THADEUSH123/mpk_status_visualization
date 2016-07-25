@@ -1,0 +1,1104 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.148352,
+                    37.484958,
+                    4.0
+                ],
+                "type": "Point"
+            },
+            "id": "0884a606-6334-4931-93e4-d0599e68859f",
+            "properties": {
+                "desc": "main",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14683,
+                        37.48439
+                    ],
+                    [
+                        -122.147125,
+                        37.484492
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0baf0b6d-d7c6-452c-b123-4ee9eb007652",
+            "properties": {
+                "desc": "15-32 to 15-28",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.146813,
+                    37.485019,
+                    3.1
+                ],
+                "type": "Point"
+            },
+            "id": "0e6ec053-47df-49f7-a788-e77aa2f75fb7",
+            "properties": {
+                "desc": "15-47",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.147366,
+                        37.484419
+                    ],
+                    [
+                        -122.14755,
+                        37.483768
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0fbbd3ce-1d10-4e43-b7a1-c5a777ba83fd",
+            "properties": {
+                "desc": "corner17 to 15-13",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.14917,
+                    37.484507,
+                    3.8
+                ],
+                "type": "Point"
+            },
+            "id": "11996495-6a8a-436c-8be5-2ad4031130bf",
+            "properties": {
+                "desc": "roof12",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146432,
+                        37.484937
+                    ],
+                    [
+                        -122.146814,
+                        37.485016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "200c791a-cda4-4c24-89df-b51977b3d142",
+            "properties": {
+                "desc": "15-46 to 15-47",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.150506,
+                        37.483374
+                    ],
+                    [
+                        -122.15193,
+                        37.48145
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "224d0e9a-efde-4a67-b137-176a0e1d9046",
+            "properties": {
+                "desc": "bldg 10-bldg 20",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.147874,
+                        37.485053
+                    ],
+                    [
+                        -122.147365,
+                        37.484419
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "28f25d5e-f30f-490e-a8f6-d81f1cb314c5",
+            "properties": {
+                "desc": "philz to SW corner 17",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.146326,
+                    37.484628,
+                    2.9
+                ],
+                "type": "Point"
+            },
+            "id": "29465ea3-c79a-4093-aa32-2fb6a51de8ad",
+            "properties": {
+                "desc": "15-43",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146814,
+                        37.485014
+                    ],
+                    [
+                        -122.147139,
+                        37.484968
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "2c9d9d6d-fec2-4dc5-8055-5f2bc83f8929",
+            "properties": {
+                "desc": "15-47 to 15-31",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.150281,
+                        37.48277
+                    ],
+                    [
+                        -122.151931,
+                        37.481447
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "310cca11-c78c-457b-845f-66fe230a3a55",
+            "properties": {
+                "desc": "bldg20 to 11-14",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.150678,
+                        37.484843
+                    ],
+                    [
+                        -122.150503,
+                        37.483375
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "334fe17c-e5b3-4388-8dca-d4c02e7bb117",
+            "properties": {
+                "desc": "bldg10 to driveway12",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.147871,
+                    37.485059,
+                    3.9
+                ],
+                "type": "Point"
+            },
+            "id": "36931abf-2702-45f4-836f-2f6273ff3c78",
+            "properties": {
+                "desc": "philz",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146673,
+                        37.484696
+                    ],
+                    [
+                        -122.146829,
+                        37.484389
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "3c372171-0ec1-4175-9cf8-26bc57b5f8ff",
+            "properties": {
+                "desc": "15-32 to 15-42",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.148874,
+                        37.482914
+                    ],
+                    [
+                        -122.150282,
+                        37.48277
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "41cb8282-b850-41e3-8684-c1eae5af3519",
+            "properties": {
+                "desc": "11-14 to 10-15",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146981,
+                        37.485644
+                    ],
+                    [
+                        -122.147826,
+                        37.485381
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "48645c35-bf79-465c-af50-6c6bf8b189d2",
+            "properties": {
+                "desc": "burger to bridge",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146816,
+                        37.485016
+                    ],
+                    [
+                        -122.14709,
+                        37.485057
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "48d1c97a-1b98-4c0d-8abd-35eaca1660fc",
+            "properties": {
+                "desc": "15-47 to 15-48",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.150504,
+                    37.483377,
+                    3.1
+                ],
+                "type": "Point"
+            },
+            "id": "527bb65f-4f98-49e2-8df8-d5c459f2b766",
+            "properties": {
+                "desc": "bldg 10 roof",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.145771,
+                    37.484652,
+                    2.6
+                ],
+                "type": "Point"
+            },
+            "id": "5316cad9-0b90-4e33-9843-e99e34b43882",
+            "properties": {
+                "desc": "18-9",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146711,
+                        37.485308
+                    ],
+                    [
+                        -122.146981,
+                        37.485645
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "5a764bea-ac58-4e88-8d14-34e409ce5872",
+            "properties": {
+                "desc": "18-1 to burger",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.147364,
+                    37.48442,
+                    3.6
+                ],
+                "type": "Point"
+            },
+            "id": "639bdbb8-e4c5-42d2-a99a-04b1b8cf2610",
+            "properties": {
+                "desc": "corner 17",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146814,
+                        37.485016
+                    ],
+                    [
+                        -122.146911,
+                        37.485203
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "669f1c15-11ff-43f0-845d-dd55a2e31703",
+            "properties": {
+                "desc": "15-47 to 15-49",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.145969,
+                    37.484291,
+                    3.6
+                ],
+                "type": "Point"
+            },
+            "id": "6c5bc7cf-8f84-4d76-98e8-28202473771d",
+            "properties": {
+                "desc": "15-39",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.148353,
+                        37.484954
+                    ],
+                    [
+                        -122.14917,
+                        37.484504
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "6cc05e0a-2aa2-44c1-bedb-729840ab5aa5",
+            "properties": {
+                "desc": "main pole to roof14",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.147088,
+                    37.48506,
+                    3.6
+                ],
+                "type": "Point"
+            },
+            "id": "743c107e-9bef-4143-97e1-d363f2935efe",
+            "properties": {
+                "desc": "15-48",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.147826,
+                        37.485384
+                    ],
+                    [
+                        -122.148355,
+                        37.484956
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "7483ba18-50e6-4f33-8c94-162a377cd059",
+            "properties": {
+                "desc": "bridge to main",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146812,
+                        37.485016
+                    ],
+                    [
+                        -122.146713,
+                        37.485308
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "759e49b1-1100-4719-81fb-825b3a1139dc",
+            "properties": {
+                "desc": "15-47 to 18-1",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.146829,
+                    37.484393,
+                    3.2
+                ],
+                "type": "Point"
+            },
+            "id": "76123e40-5bb9-402e-9eae-0d9ef4aba48a",
+            "properties": {
+                "desc": "15-32",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146812,
+                        37.485016
+                    ],
+                    [
+                        -122.146673,
+                        37.484696
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "770671f1-510f-41c8-b2c9-9320f8c03e05",
+            "properties": {
+                "desc": "15-42 to 15-47",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.150575,
+                        37.485583
+                    ],
+                    [
+                        -122.150678,
+                        37.484846
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "78a5c414-0849-4594-8d71-87d517173392",
+            "properties": {
+                "desc": "14-19 to driveway12",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146675,
+                        37.484696
+                    ],
+                    [
+                        -122.146328,
+                        37.484625
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "841328fa-07a9-4960-b5fb-e5b86fd6aa83",
+            "properties": {
+                "desc": "15-42 to 15-43",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.148355,
+                        37.484956
+                    ],
+                    [
+                        -122.147872,
+                        37.485055
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "944b74b6-36cc-4881-924c-871720468b1d",
+            "properties": {
+                "desc": "main to Philz",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14917,
+                        37.484504
+                    ],
+                    [
+                        -122.150575,
+                        37.485585
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "9541a3eb-bd70-41ba-892d-8ed1f47bedcc",
+            "properties": {
+                "desc": "roof14 to 14-19",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.150678,
+                    37.484848,
+                    2.3
+                ],
+                "type": "Point"
+            },
+            "id": "9648b95d-c3e8-4419-bad0-35bf32c6f6b6",
+            "properties": {
+                "desc": "driveway12",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.145968,
+                        37.484289
+                    ],
+                    [
+                        -122.145773,
+                        37.48465
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "99855949-953d-4ff7-ac13-bd0677c35b7a",
+            "properties": {
+                "desc": "15-39 to 18-9",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.14691,
+                    37.485206,
+                    3.6
+                ],
+                "type": "Point"
+            },
+            "id": "a12a3795-355c-41ee-9757-7f6dd171fa54",
+            "properties": {
+                "desc": "15-49",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.147548,
+                    37.48377,
+                    2.9
+                ],
+                "type": "Point"
+            },
+            "id": "ac167f11-7ab3-4e64-b3a8-9d52704dec0e",
+            "properties": {
+                "desc": "15-13",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.146979,
+                    37.485655,
+                    3.7
+                ],
+                "type": "Point"
+            },
+            "id": "b3b4dc5d-b86f-4147-9e56-79399eace682",
+            "properties": {
+                "desc": "burger",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.146908,
+                    37.484595,
+                    3.6
+                ],
+                "type": "Point"
+            },
+            "id": "b5cd1ef4-2e2f-44d4-b888-c298711b8554",
+            "properties": {
+                "desc": "15-29",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14683,
+                        37.484392
+                    ],
+                    [
+                        -122.146911,
+                        37.484594
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "b7039ef7-f155-402f-ac2b-ad13024a02e1",
+            "properties": {
+                "desc": "15-32 to 15-29",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146434,
+                        37.484939
+                    ],
+                    [
+                        -122.146326,
+                        37.484625
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "b76408c7-bfb5-49cc-9671-cbb32426f513",
+            "properties": {
+                "desc": "15-43 to 15-46",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.146673,
+                    37.484698,
+                    3.1
+                ],
+                "type": "Point"
+            },
+            "id": "b8301abc-a911-4ee0-bc39-55c141bf202e",
+            "properties": {
+                "desc": "15-42",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.148874,
+                    37.482916,
+                    2.5
+                ],
+                "type": "Point"
+            },
+            "id": "c0d8f059-56d8-4cdc-8713-80ab19dd4215",
+            "properties": {
+                "desc": "15-Oct",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146816,
+                        37.485014
+                    ],
+                    [
+                        -122.147042,
+                        37.484777
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "c3887e9a-4841-4d1e-bd81-c7749585b696",
+            "properties": {
+                "desc": "15-47 to 15-30",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.147548,
+                        37.483769
+                    ],
+                    [
+                        -122.148874,
+                        37.482914
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "cda18cbf-863b-4a6f-b40e-4fb82f15333e",
+            "properties": {
+                "desc": "15-13 to 10-15",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.150573,
+                    37.485589,
+                    2.8
+                ],
+                "type": "Point"
+            },
+            "id": "d1298467-8e2d-4746-9ca4-2db349a5700f",
+            "properties": {
+                "desc": "14-19",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.147038,
+                    37.484778,
+                    3.6
+                ],
+                "type": "Point"
+            },
+            "id": "d3ff3905-a6c2-4b63-a58c-eb07d052dc60",
+            "properties": {
+                "desc": "15-30",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.145769,
+                        37.48465
+                    ],
+                    [
+                        -122.146432,
+                        37.48494
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "d5a49ed9-126a-4cfc-92a8-8d59d8ae5e87",
+            "properties": {
+                "desc": "18-9 to 15-46",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146326,
+                        37.484624
+                    ],
+                    [
+                        -122.145968,
+                        37.484292
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "e4e12f35-f762-4ce0-830a-e79cebdd396d",
+            "properties": {
+                "desc": "15-39 to 15-43",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.146829,
+                        37.484391
+                    ],
+                    [
+                        -122.147365,
+                        37.484417
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "eb974184-f057-4974-8743-be4c5fc9a81a",
+            "properties": {
+                "desc": "15-32 to SW corner 17",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.147825,
+                    37.48539,
+                    3.7
+                ],
+                "type": "Point"
+            },
+            "id": "efbe5204-6707-4709-9ba3-e9cac9aac652",
+            "properties": {
+                "desc": "bridge",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.15193,
+                    37.481449,
+                    3.4
+                ],
+                "type": "Point"
+            },
+            "id": "f0b5c62c-175f-4b41-b698-882973ccc1e0",
+            "properties": {
+                "desc": "bldg 20 roof",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.145767,
+                        37.484649
+                    ],
+                    [
+                        -122.145984,
+                        37.484843
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "f18dbf4b-575e-41c0-895e-f96fc95ca971",
+            "properties": {
+                "desc": "18-9 to 15-45",
+                "subtype": "observation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.146709,
+                    37.485312,
+                    3.1
+                ],
+                "type": "Point"
+            },
+            "id": "f231c467-2337-4918-b7cd-917e4b515161",
+            "properties": {
+                "desc": "18-1",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.150281,
+                    37.482772,
+                    4.1
+                ],
+                "type": "Point"
+            },
+            "id": "f345ca57-1889-452a-9ece-8a4b0239ab95",
+            "properties": {
+                "desc": "14-Nov",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.147124,
+                    37.484495,
+                    3.8
+                ],
+                "type": "Point"
+            },
+            "id": "f4085bbc-0632-4ef1-9018-af95902e0906",
+            "properties": {
+                "desc": "15-28",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.145984,
+                    37.484846,
+                    2.6
+                ],
+                "type": "Point"
+            },
+            "id": "f47ab598-5a87-4820-9d9a-d79726b0fcfe",
+            "properties": {
+                "desc": "15-45",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.147137,
+                    37.484972,
+                    3.6
+                ],
+                "type": "Point"
+            },
+            "id": "f57dd2c5-30c2-40b2-b9c2-97474086be08",
+            "properties": {
+                "desc": "15-31",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.146432,
+                    37.484942,
+                    3.1
+                ],
+                "type": "Point"
+            },
+            "id": "fe3c3025-1ad2-4257-bf72-efc3dc37047f",
+            "properties": {
+                "desc": "15-46",
+                "subtype": "mountpoint"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
