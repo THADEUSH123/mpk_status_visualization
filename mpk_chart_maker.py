@@ -9,6 +9,8 @@ from deployment.device import SectorDevice
 import folium
 import json
 import quip
+import time
+from selenium import webdriver
 
 STATUS = {
     'down': {
@@ -229,31 +231,38 @@ if __name__ == '__main__':
         settings = json.loads(f.read())
 
     geospacial_data = Datastore()
+    browser = webdriver.Firefox()
+
     geospacial_data.load_data(choice=settings['default_load_choice'],
                               file_path=settings['default_load_file'])
 
-    raw_device_data = get_install_data(api_key=settings['quip_api_key'],
+    while True:
+        device_data = get_install_data(api_key=settings['quip_api_key'],
                                        thread_id=settings['thread_id'])
 
-    device_map = infer_devices_to_nodes(raw_device_data)
-    link_map = infer_devices_to_links(raw_device_data)
+        device_map = infer_devices_to_nodes(device_data)
+        link_map = infer_devices_to_links(device_data)
 
-    device_map = apply_spacial_map(geojson_data=geospacial_data.all,
-                                   device_map=device_map)
+        device_map = apply_spacial_map(geojson_data=geospacial_data.all,
+                                       device_map=device_map)
 
-    link_map = apply_spacial_map(geojson_data=geospacial_data.all,
-                                 device_map=link_map)
+        link_map = apply_spacial_map(geojson_data=geospacial_data.all,
+                                     device_map=link_map)
 
-    mpk_device_status = generate_device_status(node_map=device_map,
-                                               edge_map=link_map,
-                                               install_data=raw_device_data)
+        mpk_device_status = generate_device_status(node_map=device_map,
+                                                   edge_map=link_map,
+                                                   install_data=device_data)
 
-    for device in mpk_device_status:
-        device.test_ping()
-        device.test_login()
-        device.test_radio_link()
+        for device in mpk_device_status:
+            device.test_ping()
+            device.test_login()
+            device.test_radio_link()
 
-    print('\nBuilding Map Now...')
-    current_status = update_nodes(geospacial_data.all, mpk_device_status)
-    render_mpk_chart(current_status)
-    print('Complete!')
+        print('\nBuilding Map Now...')
+        current_status = update_nodes(geospacial_data.all, mpk_device_status)
+        render_mpk_chart(current_status)
+
+        # f = '<path to file> /mpk_chart.html'
+        # browser.get(f)
+        time.sleep(10)
+        print('Sleeping for 30 seconds...')
