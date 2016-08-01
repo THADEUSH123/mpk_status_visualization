@@ -236,6 +236,7 @@ if __name__ == '__main__':
     geospacial_data.load_data(choice=settings['default_load_choice'],
                               file_path=settings['default_load_file'])
 
+    iteration = 0
     while True:
         device_data = get_install_data(api_key=settings['quip_api_key'],
                                        thread_id=settings['thread_id'])
@@ -264,5 +265,6 @@ if __name__ == '__main__':
 
         # f = '<path to file> /mpk_chart.html'
         # browser.get(f)
+        iteration += 1
+        print('Iteration {}. Sleeping for 30 seconds...'.format(iteration))
         time.sleep(10)
-        print('Sleeping for 30 seconds...')
