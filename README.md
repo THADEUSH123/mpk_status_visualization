@@ -1,12 +1,14 @@
-# mpk_status_visualization
-Display current status of MPK deployment
+# network_status_display
+Render an html file that overlays device status with geospatial objects.
+
+Requires device configuration/mapping and geospatial objects to associate as an input.
 
 
 ## Examples
 ### Basic usage
 
 ```
-python mpk_chart_maker.py
+python network_status_display.py
 ```
 
 ## Development
